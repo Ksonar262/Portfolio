@@ -1,8 +1,0 @@
-# SendEZCommand.action
-# Goal
-string command
----
-# Result
-string response
----
-# Feedback (we won't use feedback for this action)
